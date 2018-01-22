@@ -1,3 +1,3 @@
 # WhichMovie
 Popular Movies
-API_KEY is currently a blank string. Please insert with a working key. Thanks!
+In ui/HomeActivity.java, API_KEY is currently a blank string. Please insert with a working key. Thanks!
